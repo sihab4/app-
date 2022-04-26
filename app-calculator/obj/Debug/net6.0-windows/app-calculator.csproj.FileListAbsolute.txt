@@ -1,0 +1,17 @@
+D:\project gweh\app-calculator\bin\Debug\net6.0-windows\app-calculator.exe
+D:\project gweh\app-calculator\bin\Debug\net6.0-windows\app-calculator.deps.json
+D:\project gweh\app-calculator\bin\Debug\net6.0-windows\app-calculator.runtimeconfig.json
+D:\project gweh\app-calculator\bin\Debug\net6.0-windows\app-calculator.dll
+D:\project gweh\app-calculator\bin\Debug\net6.0-windows\app-calculator.pdb
+D:\project gweh\app-calculator\obj\Debug\net6.0-windows\app-calculator.csproj.AssemblyReference.cache
+D:\project gweh\app-calculator\obj\Debug\net6.0-windows\app_calculator.Form1.resources
+D:\project gweh\app-calculator\obj\Debug\net6.0-windows\app-calculator.csproj.GenerateResource.cache
+D:\project gweh\app-calculator\obj\Debug\net6.0-windows\app-calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\project gweh\app-calculator\obj\Debug\net6.0-windows\app-calculator.AssemblyInfoInputs.cache
+D:\project gweh\app-calculator\obj\Debug\net6.0-windows\app-calculator.AssemblyInfo.cs
+D:\project gweh\app-calculator\obj\Debug\net6.0-windows\app-calculator.csproj.CoreCompileInputs.cache
+D:\project gweh\app-calculator\obj\Debug\net6.0-windows\app-calculator.dll
+D:\project gweh\app-calculator\obj\Debug\net6.0-windows\refint\app-calculator.dll
+D:\project gweh\app-calculator\obj\Debug\net6.0-windows\app-calculator.pdb
+D:\project gweh\app-calculator\obj\Debug\net6.0-windows\app-calculator.genruntimeconfig.cache
+D:\project gweh\app-calculator\obj\Debug\net6.0-windows\ref\app-calculator.dll
